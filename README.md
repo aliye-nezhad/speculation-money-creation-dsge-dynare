@@ -59,6 +59,7 @@ speculation-money-creation-dsge-dynare/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
+├── .gitattributes
 ├── models/
 │   ├── README.md
 │   ├── speculation_money_creation_q02.mod
